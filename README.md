@@ -1,6 +1,6 @@
 # Lab files for A Cloud Guru's Google Certified Associate Cloud Engineer course
 
-This gcp-cloud-engineer repo is to support you while you follow along with [A Cloud Guru's Google Certified Associate Cloud Engineer course](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer).
+This gcp-cloud-engineer repo is to support you while you follow along with [A Cloud Guru's Google Certified Associate Cloud Engineer course](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)
 
 <!-- markdownlint-disable MD012 MD026 -->
 
